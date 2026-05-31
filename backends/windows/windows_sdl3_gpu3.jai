@@ -81,3 +81,4 @@ ImplSDLGPU3_RenderState :: struct {
 #scope_file
 
 imgui_sdl3_gpu3 :: #library,no_dll "ImGui_sdl3_gpu3.static";
+using ImGui;
