@@ -82,5 +82,3 @@ ImplSDLGPU3_RenderState :: struct {
 
 #if OS == .MACOS imgui_sdl3_gpu3 :: #library,no_dll "macos/ImGui_sdl3_gpu3";
 #if OS == .LINUX imgui_sdl3_gpu3 :: #library,no_dll "linux/ImGui_sdl3_gpu3";
-
-using ImGui;
